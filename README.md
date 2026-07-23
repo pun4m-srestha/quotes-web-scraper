@@ -17,4 +17,7 @@ A Python web scraper that extracts quotes, authors, and tags from Quotes to Scra
 - BeautifulSoup
 - CSV
 
+##Output Preview
 
+![Output preview](screenshots/quote_output.png)
+![Output preview](screenshots/quote_terminal.png)
